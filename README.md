@@ -73,13 +73,13 @@ Features:
 
 ## 📊 GitHub Stats
 
-![Thomas's GitHub stats](https://github-readme-stats.vercel.app/api?username=pandoratth&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pandoratth&show_icons=true&theme=tokyonight&include_all_commits=true)
 
 ---
 
 ## 💻 Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pandoratth&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pandoratth&layout=compact&theme=tokyonight&exclude_repo=forked-repo-name)
 
 ---
 
