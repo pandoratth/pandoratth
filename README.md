@@ -67,19 +67,13 @@ Features:
 - Role-based dashboards
 - Customer ordering interface
 
-🔗 GitHub Repo: https://github.com/pandoratth/restaurant-management-system  
+🔗 GitHub Repo: https://github.com/abelsl/gebeta-web.git  
 
 ---
 
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pandoratth&show_icons=true&theme=tokyonight&include_all_commits=true)
-
----
-
-## 💻 Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pandoratth&layout=compact&theme=tokyonight&exclude_repo=forked-repo-name)
 
 ---
 
